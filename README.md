@@ -11,3 +11,4 @@ https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 https://developer.mozilla.org/fr/docs/Web/API/SpeechSynthesisUtterance
 
 the class being made for a WP theme, there is a bit of configuration to add (to import voices and to have some option during reading (event listener on boundary)
+![This is an image](https://github.com/vaggarath/text-to-speech-class/blob/main/texttospeech.png)
